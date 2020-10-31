@@ -1,0 +1,12 @@
+[default]
+key = "value"
+a_boolean = false
+number = 1234
+
+[development]
+key = "development value"
+api_url = "http://api.openweathermap.org/data/2.5/"
+
+[production]
+key = "56eada1252c02c8c4217a9a8a527a9c1"
+api_url = "http://api.openweathermap.org/data/2.5/"

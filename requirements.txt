@@ -1,0 +1,4 @@
+urllib3
+flask
+dynaconf
+python-dotenv

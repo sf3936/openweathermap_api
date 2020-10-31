@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2fd28c7-7d74-401f-b271-7f080037a5ab" name="Default Changelist" comment="" />
+    <list default="true" id="a2fd28c7-7d74-401f-b271-7f080037a5ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,14 +168,18 @@
       <screen x="72" y="27" width="1848" height="948" />
     </state>
     <state x="591" y="237" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.948@72.27.1848.948" timestamp="1604167103559" />
-    <state x="913" y="279" width="771" height="451" key="VcsDiffUtil.ChangesDialog" timestamp="1604166934542">
+    <state x="913" y="279" width="771" height="451" key="VcsDiffUtil.ChangesDialog" timestamp="1604174307426">
       <screen x="72" y="27" width="1848" height="948" />
     </state>
-    <state x="913" y="279" width="771" height="451" key="VcsDiffUtil.ChangesDialog/72.27.1848.948@72.27.1848.948" timestamp="1604166934542" />
+    <state x="913" y="279" width="771" height="451" key="VcsDiffUtil.ChangesDialog/72.27.1848.948@72.27.1848.948" timestamp="1604174307426" />
     <state x="686" y="240" width="620" height="522" key="find.popup" timestamp="1604166726847">
       <screen x="72" y="27" width="1848" height="948" />
     </state>
     <state x="686" y="240" width="620" height="522" key="find.popup/72.27.1848.948@72.27.1848.948" timestamp="1604166726847" />
+    <state x="659" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1604174811715">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="659" y="233" width="672" height="678" key="search.everywhere.popup/72.27.1848.948@72.27.1848.948" timestamp="1604174811715" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

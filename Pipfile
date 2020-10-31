@@ -11,6 +11,7 @@ dynaconf = "*"
 python-dotenv = "*"
 Flask = "*"
 requests = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.8"
